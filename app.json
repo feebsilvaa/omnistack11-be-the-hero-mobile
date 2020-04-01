@@ -16,7 +16,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#eo2041"
+      "backgroundColor": "#e02041"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -25,12 +25,12 @@
       "**/*"
     ],
     "ios": {
-      "bundleIdentifier": "br.com.feedev",
+      "bundleIdentifier": "br.com.feedev.bethehero",
       "buildNumber": "1.0.0",
       "supportsTablet": true
     },
     "android": {
-      "package": "br.com.feedev",
+      "package": "br.com.feedev.bethehero",
       "versionCode": 1
     }
   }
